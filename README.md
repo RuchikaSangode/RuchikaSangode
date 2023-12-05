@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RuchikaSangode
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Python, SQL, PowerBI
-- 💞️ I’m looking to collaborate on Pyhton
+- 💞️ I’m looking to collaborate on Python
 
 
 <!---
